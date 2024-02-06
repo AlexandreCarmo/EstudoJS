@@ -10,6 +10,7 @@
 ***Obs.: As aulas estão nomeadas de acordo com os conteúdos passados e não com as vídeoaulas postadas***
 
 **[Aula 03](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2003)** - Aula sobre uso do 'console.log' e tipos de variáveis number e string.
+- [Exercício](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2003/Exercicios)
 
 **[Aula 04](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2004)** - Comentários em códigos JS.
 
@@ -19,6 +20,6 @@
 
 **[Aula 07](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2007)** - Constantes 'const' - Operações entre constantes/variáveis.
 
-**[Aula 08](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2008)** - Exercício de fixação com conceitos apresentados anteriormente.
+**[Aula 08 + Exercício](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2008)** - Exercício de fixação com conceitos apresentados anteriormente.
 
 **[Aula 09](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2009)** - Diferença entre 'var' e 'let' e o porquê de não se utilizar mais 'var' para declarar variáveis.
