@@ -1,0 +1,4 @@
+Exercício de fixação.
+
+Utilizar os conceitos aprendidos nas aulas anteriores para imprimir a seguinte frase no console:
+"[nome] [sobrenome] tem [idade] anos, pesa [peso] kg tem [alturaEmMetros] de altura e seu IMC é de [valorIMC]".
