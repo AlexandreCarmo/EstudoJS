@@ -1,4 +1,4 @@
-/* --> Operadores Aritméticos , de Atribuição e de Incremento <-- */
+/* --> Operadores Aritméticos ,de Atribuição e de Incremento <-- */
 
 // --> Operadores Aritméticos <-- //
 // === Adição / Concatenação === //
