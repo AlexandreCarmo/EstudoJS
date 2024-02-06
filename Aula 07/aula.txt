@@ -1,0 +1,2 @@
+A aula basicamente explica sobre como constantes não podem ser alteradas após inicializadas e como funcionam operações entre variáveis/constantes no geral
+Pulei a aula pois já sabia sobre o assunto.
