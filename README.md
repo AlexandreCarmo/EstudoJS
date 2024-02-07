@@ -24,6 +24,6 @@
 
 **[Aula 09](https://github.com/AlexandreCarmo/EstudoJS/tree/main/Aula%2009)** - Diferença entre 'var' e 'let' e o porquê de não se utilizar mais 'var' para declarar variáveis.
 
-**[Aula 10](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2010)** - Tipos primitivos em JS
+**[Aula 10](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2010)** - Tipos primitivos em JS e Operadores Aritméticos, de Atribuição e de Incremento
 
-**[Aula 11](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2011)** - Operadores Aritméticos, de Atribuição e de Incremento
+**[Aula 11](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2011)**
