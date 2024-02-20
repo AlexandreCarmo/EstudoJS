@@ -34,5 +34,4 @@
 **[Aula 12](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2012)** - Exercício com variáveis. 
 
 **[Aula 13](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2013)** - Mais informações sobre Strings e suas funções. 
-
-**[Aula 13](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2013)** - Mais informações sobre Strings e suas funções. 
+- [Exercício](https://github.com/CasagrandeCarmo/EstudoJS/tree/main/Aula%2013/Exercício)
